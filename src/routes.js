@@ -1,5 +1,5 @@
 import React from 'react';
-import { BrowserRouter, Route, Switch } from 'react-router-dom';
+import { BrowserRouter, Route, Switch, Redirect } from 'react-router-dom';
 
 import Home from './pages/Home';
 import Country from './pages/Country';
@@ -10,9 +10,9 @@ export default function Routes() {
     <BrowserRouter>
       <Switch>
         <Route path="/" exact component={Home} />
-        <Route component={Home} />
         <Route path="/country" component={Country} />
         <Route path="/states" component={States} />
+        <Redirect to="/" />
       </Switch>
     </BrowserRouter>
   );
