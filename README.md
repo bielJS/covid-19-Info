@@ -1,5 +1,11 @@
 # Covid-19 Info
 
+## Sobre o projeto
+
+Exibe informações sobre números da Covid-19 no Brasil e no mundo.
+
+API Reference: https://covid19-brazil-api-docs.now.sh/
+
 
 
 ## Pré-visualização
@@ -8,12 +14,12 @@
 
 
 
+## Features
 
-## Sobre o projeto
-
-Exibe informações sobre números da Covid-19 no Brasil e no mundo.
-
-API Reference: https://covid19-brazil-api-docs.now.sh/
+- **react** — Biblioteca JavaScript usada para criar interfaces
+- **react-router-dom**    — Utilizado para criar a SPA
+- **react-toastify**    — Utilizado para exibir notificações
+- **axios** — Biblioteca JavaScript para fazer requests a API
 
 
 
