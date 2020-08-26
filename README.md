@@ -1,20 +1,22 @@
 # Covid-19 Info
 
-## Sobre o projeto
+&nbsp;
+
+## 🙋‍♂ Apresentação:
 
 Exibe informações sobre números da Covid-19 no Brasil e no mundo.
 
 API Reference: https://covid19-brazil-api-docs.now.sh/
 
+&nbsp;
 
-
-## Pré-visualização
+## 🎥 Algumas imagens do projeto
 
 ![alt text](https://i.imgur.com/BHPHWtO.gif)
 
+&nbsp;
 
-
-## Features
+## 💻 Tecnologias utilizadas
 
 - **react** — Biblioteca JavaScript usada para criar interfaces
 - **react-router-dom**    — Utilizado para criar a SPA
@@ -22,19 +24,20 @@ API Reference: https://covid19-brazil-api-docs.now.sh/
 - **styled-components**    — Usar CSS utilizando JavaScript
 - **axios** — Biblioteca JavaScript para fazer requests a API
 
+&nbsp;
 
+## ⚙️ Funcionalidades
 
-## Funcionalidades
 Exibição de informações resumidas sobre os números da COVID no mundo na pagina inicial;
 
 Pesquisar país específico;
 
 Pesquisar estado do Brasil específico.
 
+&nbsp;
 
+## 🔥️ Executando o projeto
 
-
-## Informações finais
 Projeto feito em React;
 
 Para iniciar, usando o terminal, clone esse repositório em uma pasta com o comando:
